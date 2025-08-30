@@ -1,6 +1,6 @@
 # PowerBI Credit Card Transaction Analysis
 A comprehensive Power BI dashboard designed to visualize and analyze key metrics from credit card transaction data. This interactive report provides actionable insights into customer spending behavior, revenue trends, and card product performance.
-##📊 Key Features
+
 ## 📊 Key Features
 
 | Feature Category        | Description                                                                               |
