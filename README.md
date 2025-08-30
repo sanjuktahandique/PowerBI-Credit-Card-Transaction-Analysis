@@ -15,7 +15,7 @@ A comprehensive Power BI dashboard designed to visualize and analyze key metrics
 *   **Revenue by Month:** Analyze seasonal trends and monitor revenue growth over time.
 *   **Top Customers Table:** Quickly identify the top 5 customers by revenue generation.
 
-## 🛠️ Built With
+### 🛠️ Built With
 
 *   **Microsoft Power BI** - For data modeling, visualization, and deployment.
 *   **DAX (Data Analysis Expressions)** - For creating powerful calculated measures and columns.
